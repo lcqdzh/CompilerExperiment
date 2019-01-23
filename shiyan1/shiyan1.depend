@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1525135575 source:c:\users\lichenqi\desktop\±‡“Î‘≠¿Ì\shiyan1\main.cpp
+	<iostream>
+	<string.h>
+	<ctype.h>
+	<sstream>
+	<fstream>
+	<vector>
+	<stdio.h>
+
