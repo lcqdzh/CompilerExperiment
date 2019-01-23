@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1525169750 source:c:\users\lichenqi\desktop\编译原理\shiyan2\main.cpp
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<stack>
+	<set>
+	<cstring>
+	<queue>
+	<fstream>
+	<sstream>
+	<stdio.h>
+
+1525071847 source:c:\users\lichenqi\desktop\编译原理\shiyan2\cffx.cpp
+	<iostream>
+	<string>
+	<map>
+	<vector>
+	<stack>
+	<set>
+	<cstring>
+	<queue>
+	<fstream>
+	<sstream>
+
